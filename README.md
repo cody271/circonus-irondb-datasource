@@ -1,5 +1,4 @@
-![](https://github.com/cody271/circonus-irondb-datasource/workflows/Node%20CI/badge.svg)
-# IRONdb Datasource
+# IRONdb Datasource [![Actions Status](https://github.com/cody271/circonus-irondb-datasource/workflows/Node%20CI/badge.svg)](https://github.com/cody271/circonus-irondb-datasource/actions)
 
 This is the plugin for IRONdb 0.17.1 and newer. It is evolving and we continue to track its API.
 
