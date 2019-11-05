@@ -1,3 +1,4 @@
+![](https://github.com/cody271/circonus-irondb-datasource/workflows/Node%20CI/badge.svg)
 # IRONdb Datasource
 
 This is the plugin for IRONdb 0.17.1 and newer. It is evolving and we continue to track its API.
